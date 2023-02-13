@@ -1,2 +1,2 @@
 #!/bin/bash
-head A- 3"root" /etc/passwd
+head -A 3"root" /etc/passwd
